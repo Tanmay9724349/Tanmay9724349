@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Tanmay Patel 👋
+<img src="banner.svg" alt="Tanmay Patel — Full Stack Developer" width="100%"/>
 
-### 🎓 Computer Engineering Student @ Marwadi University | Full Stack Developer | MERN Stack
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-Tanmaypatel5504%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Tanmaypatel5504@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Tanmay9724349?label=Follow&style=flat&logo=github)](https://github.com/Tanmay9724349)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Tanmay+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+cool+things+with+React+%26+Node.js;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,16 +12,18 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering** from **Marwadi University, Rajkot** *(2022 – 2026)*
-- 🌱 I'm a **fresher** actively building projects and sharpening my full-stack skills
-- 💻 Passionate about **Web Development**, especially the **MERN Stack**
-- 🏆 **Hackathon participant** — competed in **Web-Hack 1.0** by Dev Disect Community
-- 📫 Reach me at **Tanmaypatel5504@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into real, working web apps!
+- 🎓 Pursuing **B.Tech in Computer Engineering** at **Marwadi University, Rajkot** *(2022 – 2026)*
+- 💻 Passionate about **Full Stack Web Development** with a focus on the **MERN Stack**
+- 🏆 **Hackathon Participant** — competed in **Web-Hack 1.0** by Dev Disect Community
+- 🌱 Currently exploring **TypeScript**, **Redux**, and **Cloud Deployment**
+- 📫 Reach me at **[Tanmaypatel5504@gmail.com](mailto:Tanmaypatel5504@gmail.com)**
+- ⚡ I love turning ideas into real, working web apps!
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -38,13 +39,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -55,41 +53,48 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🔨 [Auction Website](https://github.com/Tanmay9724349/Auction_Website)
-> A full-stack auction platform built with the **MERN Stack**
-
-- 🔐 User authentication with registration & login
-- 📦 Create auction listings and place competitive bids in real time
-- ⚙️ RESTful APIs with **Node.js** & **Express.js** for auction and bid management
-- 🗄️ **MongoDB** with Mongoose ODM for data modelling and schema validation
-- 📱 Responsive **React.js** frontend with reusable component architecture
-
-**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+</div>
 
 ---
 
-### ⚡ [Web-Hack 1.0 — Hackathon Project](https://github.com/Tanmay9724349/Web-Hack-1.0)
-> Built during **Web-Hack 1.0**, a competitive hackathon by **Dev Disect Community**
+## 🚀 Featured Projects
 
-- 🤝 Collaborated in a team to design and ship a complete web app under time constraints
-- ⚛️ **React.js** component-driven frontend (84%+ JS codebase) with custom CSS styling
-- 🔧 Integrated backend module handling server-side logic
-- 🏁 Demonstrated rapid prototyping and delivery under competitive pressure
-
-**Stack:** `React.js` `JavaScript` `CSS` `Node.js`
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Date | Link |
-|---|---|---|---|
-| Programming for Everybody (Getting Started with Python) | University of Michigan — Coursera | Aug 2023 | [Verify ↗](https://coursera.org/verify/PJQNMPA3DV9N) |
-| Python Data Structures | University of Michigan — Coursera | Aug 2023 | [Verify ↗](https://coursera.org/verify/9Y7LP9YJW8TD) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔨 <a href="https://github.com/Tanmay9724349/Auction_Website">Auction Website</a></h3>
+      <p>A full-stack auction platform where users can create listings and place competitive bids in real time.</p>
+      <ul>
+        <li>🔐 User authentication &amp; role-based access</li>
+        <li>⚙️ RESTful APIs with Node.js &amp; Express.js</li>
+        <li>🗄️ MongoDB + Mongoose ODM for data management</li>
+        <li>📱 Responsive React.js frontend</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Tanmay9724349/Web-Hack-1.0">Web-Hack 1.0</a></h3>
+      <p>Hackathon project built for <strong>Web-Hack 1.0</strong> organized by the Dev Disect Community.</p>
+      <ul>
+        <li>🤝 Team collaboration under competitive deadline</li>
+        <li>⚛️ React.js component-driven frontend (84%+ JS)</li>
+        <li>🔧 Backend module for server-side logic</li>
+        <li>🏁 Rapid prototyping &amp; delivery</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,11 +102,30 @@
 
 <div align="center">
 
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay9724349&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmay9724349&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay9724349&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay9724349&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay9724349&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay9724349&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay9724349&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏛️ Issuer | 📅 Date | 🔗 |
+|:---|:---|:---:|:---:|
+| Programming for Everybody (Getting Started with Python) | University of Michigan — Coursera | Aug 2023 | [Verify ↗](https://coursera.org/verify/PJQNMPA3DV9N) |
+| Python Data Structures | University of Michigan — Coursera | Aug 2023 | [Verify ↗](https://coursera.org/verify/9Y7LP9YJW8TD) |
 
 </div>
 
@@ -109,9 +133,14 @@
 
 ## 📚 Currently Learning
 
-- 🔷 Advanced React patterns (Context API, Redux)
-- 🌐 TypeScript for scalable frontend development
-- ☁️ Cloud deployment (AWS / Vercel / Render)
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -122,10 +151,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tanmaypatel5504@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmay9724349)
 
----
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanmay9724349&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Tanmay9724349&color=7aa2f7&style=flat-square&label=Profile+Views)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<br/>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
